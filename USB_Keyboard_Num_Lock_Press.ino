@@ -12,7 +12,7 @@ void setup()
 void loop()
 {
   int KeyPress = 83; // Keyboard Num Lock
-  long Delay = 120000;
+  long Delay = 120000; // Wait 2 Min
 
   delay(Delay);
 
